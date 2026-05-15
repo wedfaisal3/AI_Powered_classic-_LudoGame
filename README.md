@@ -1,4 +1,4 @@
-# AI_Powered_classic-_LudoGame
+# AI_Powered_classic_LudoGame
 -Academic Application: Successfully translated theoretical programming concepts into a practical, interactive game.
 This project presents the development of an interactive Ludo game in which a human player
 (RED) competes against an AI-controlled opponent (BLUE). The system was implemented using
